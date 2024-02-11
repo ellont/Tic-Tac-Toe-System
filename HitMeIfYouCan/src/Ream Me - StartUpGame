@@ -1,0 +1,10 @@
+Read Me
+
+Class - Startup
+
+Class - GameHelper
+
+Array way
+ Build a Startup ship randomly using 3 consecutive blocks (number of blocks adjustable)
+ Users are prompt to guess the location of the ship
+ Claim Win after all 3 blocks are "hit", and number of total guesses are displayed

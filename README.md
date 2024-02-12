@@ -17,4 +17,5 @@ _How to Run_
 Two executable jar files can be found inside the file folders, one for the client and one for the server. 
 The executable jar files should run the following way.
 `java -jar server.jar ip port`
+
 `java -jar client.jar username server_ip server_port`
